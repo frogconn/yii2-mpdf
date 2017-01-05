@@ -27,6 +27,7 @@ class Pdf extends Component
     const MODE_CORE = 'c';
     const MODE_UTF8 = 'UTF-8';
     const MODE_ASIAN = '+aCJK';
+    const MODE_THAI = 'th';
 
     // format
     const FORMAT_A3 = 'A3';
