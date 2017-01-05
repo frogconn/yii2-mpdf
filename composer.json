@@ -16,7 +16,7 @@
         {
             "type": "git",
             "url": "https://github.com/frogconn/mpdf-thsarabunnew.git"            
-        },
+        }
     ],
     "require": {
         "frogconn/mpdf-thsarabunnew": "<7.0"
